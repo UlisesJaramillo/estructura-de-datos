@@ -1,0 +1,86 @@
+E: Rusia; Stanislav Cherchésov; 0; 0; 0
+E: Uruguay; Óscar Washington Tabárez; 0; 0; 0
+E: España; Fernando Hierro; 0; 0; 0
+E: Portugal; Fernando Santos; 0; 0; 0
+E: Dinamarca; Åge Hareide; 0; 0; 0
+E: Francia; Didier Deschamps; 0; 0; 0
+E: Argentina; Jorge Sampaoli; 0; 0; 0
+E: Croacia; Zlatko Dalic; 0; 0; 0
+E: Brasil; Tite; 0; 0; 0
+E: Suiza; Vladimir Petkovic; 0; 0; 0
+E: Mexico; Juan Carlos Osorio; 0; 0; 0
+E: Suecia; Janne Andersson; 0; 0; 0
+E: Belgica; Roberto Martínez Montoliú; 0; 0; 0
+E: Inglaterra; Gareth Southgate; 0; 0; 0
+E: Colombia; José Néstor Pékerman; 0; 0; 0
+E: Japon; Akira Nishino; 0; 0; 0
+C: Moscu; 2511; 12500123; true
+C: San Petersburgo; 1439; 5383890; true
+C: Kazan; 408; 1231878; false
+C: Sochi; 3508; 443644; true
+C: Grozni; 324; 291687; false
+C: Anapa; 982; 55740; false
+C: Krasnodar; 841; 881476; false
+C: Istra; 21; 32048; false
+C: Gelendzhik; 1228; 59980; false
+C: Voronezh; 601; 1054111; false
+C: Yessentuki; 50; 108679; false
+C: Saransk; 383; 295338; true
+C: Kaluga; 125; 342654; false
+C: Toliatti; 314; 795696; false
+C: Nizhni Novgorod; 673; 1267760; true
+C: Ekaterimburgo; 490; 1501000; true
+C: Samara; 465; 1135318; true
+C: Rostov del Don; 354; 30000; true
+R: San Petersburgo; Istra; 675
+R: San Petersburgo; Kaluga; 754
+R: Istra; moscu; 67
+R: Istra; Kaluga; 35
+R: Nizhni Novgorod; moscu; 422
+R: Nizhni Novgorod; Kazan; 532
+R: Nizhni Novgorod; Istra; 368
+R: Nizhni Novgorod; San Petersburgo; 1536
+R: Kazan; moscu; 809
+R: Saransk; moscu; 647
+R: Voronezh; moscu; 519
+R: Voronezh; Krasnodar; 720
+R: Voronezh; Anapa; 1300
+R: Kaluga; moscu; 196
+R: Kaluga; Voronezh; 26
+R: Saransk; Rostov del Don; 1047
+R: Saransk; Kazan; 401
+R: Saransk; Toliatti; 433
+R: Saransk; Voronezh; 615
+R: Kazan; Toliatti; 346
+R: Kazan; Ekaterimburgo; 1244
+R: Toliatti; Samara; 95
+R: Toliatti; Yessentuki; 1024
+R: Samara; Ekaterimburgo; 959
+R: Samara; Grozni; 1450
+R: Grozni; Ekaterimburgo; 1870
+R: Rostov del Don; Voronezh; 568
+R: Rostov del Don; Krasnodar; 277
+R: Rostov del Don; Sochi; 552
+R: Rostov del Don; Yessentuki; 518
+R: Krasnodar; Anapa; 174
+R: Krasnodar; Sochi; 289
+R: Krasnodar; Gelendzhik; 189
+R: Anapa; Gelendzhik; 85
+R: Gelendzhik; Sochi; 249
+R: Sochi; Yessentuki; 580
+R: Yessentuki; Grozni; 306
+P: Uruguay; Portugal; Octavos de final; Sochi; 2; 1
+P: Francia; Argentina; Octavos de final; Kazan; 4; 3
+P: Brasil; Mexico; Octavos de final; Samara; 2; 0
+P: Belgica; Japon; Octavos de final; Rostov del Don; 3; 2
+P: España; Rusia; Octavos de final; Moscu; 3; 4
+P: Croacia; Dinamarca; Octavos de final; Nizhni Novgorod; 3; 2
+P: Suecia; Suiza; Octavos de final; San Petersburgo; 1; 0
+P: Colombia; Inglaterra; Octavos de final; Moscu; 3; 4
+P: Uruguay; Francia; Cuartos de final; Nizhni Novgorod; 0; 2
+P: Brasil; Belgica; Cuartos de final; Kazan; 1; 2
+P: Rusia; Croacia; Cuartos de final; Sochi; 3; 4
+P: Suecia; Inglaterra; Cuartos de final; Samara; 0; 2
+P: Francia; Belgica; Semifinales; San Petersburgo; 1; 0
+P: Croacia; Inglaterra; Semifinales; Moscu; 2; 1
+P: Francia; Croacia; Final; Moscú; 4; 2
